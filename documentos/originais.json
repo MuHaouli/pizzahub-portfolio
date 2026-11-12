@@ -1,0 +1,52 @@
+[
+  {
+    "original": "Especificação caso de uso Suc_Gerenciar Ingredientes.docx",
+    "file": "documentos/ingredientes.docx",
+    "sha256": "0512307271ab9f2735810bfdd68186c44c8b5b6a6c60a15d243b3c6f424fe9c7"
+  },
+  {
+    "original": "Especificação caso de uso Suc_Gerenciar Pizzas.docx",
+    "file": "documentos/pizzas.docx",
+    "sha256": "cc1b2a053517bcdac7ba1b7b2107a2f1776ffdc3c88547ee2ab08bda29a0a0fc"
+  },
+  {
+    "original": "Especificacoes caso de uso Suc_Gerenciar Estoque de Ingredientes.docx",
+    "file": "documentos/estoque.docx",
+    "sha256": "c3ff0a19529abe3dd8b1ad729ae85404110936309d61d5dd4fbedc0b860b2649"
+  },
+  {
+    "original": "Especificacoes caso de uso Suc_Emitir Alertas de Estoque Baixo.docx",
+    "file": "documentos/alertas.docx",
+    "sha256": "a7c38c35456f1a64f9b1ba6a0afceb0ca48dda6038f02327217f8e916b2d8571"
+  },
+  {
+    "original": "Especificação caso de uso Suc_Gerenciar Usuarios.docx",
+    "file": "documentos/usuarios.docx",
+    "sha256": "3931a3df38040d36d6fe3d692e4e2b675523d4fae93edecc659156de69c53875"
+  },
+  {
+    "original": "Especificacao complementar.docx",
+    "file": "documentos/especificacao-complementar.docx",
+    "sha256": "3ad6fb22f82a0ee0dcc6dd937ead8ca63afab11b25ebc753eca8514285bde0c1"
+  },
+  {
+    "original": "Glossário.docx",
+    "file": "documentos/glossario.docx",
+    "sha256": "9fab3d0f09b080a73e047cd5d08d5dba4bd380b01ca5fd3fe68731155208ef34"
+  },
+  {
+    "original": "Pedido do Investidor.docx",
+    "file": "documentos/pedido-do-investidor.docx",
+    "sha256": "ed4793877d60bed6b6e2ce4dcfd5e0253a0c7af1c22309d641eb8f4c15fb631f"
+  },
+  {
+    "original": "Visão Informal.docx",
+    "file": "documentos/visao-informal.docx",
+    "sha256": "519f50d42d359fa6ab97602ffae45920e0cd02519d943e950fdc5c1dea0c5064"
+  },
+  {
+    "original": "Relatório de Estágio UniFil 2026 - Corrigido.docx",
+    "file": "documentos/relatorio-original.docx",
+    "sha256": "ae2dcdd1cdb78ceb0a71b10cd49a85333c0212711fd3f36ad71db85419b4cdc1"
+  }
+]
